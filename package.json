@@ -1,6 +1,6 @@
 {
   "name": "xing-framework-sass",
-  "version": "0.0.3",
+  "version": "1.0.0-beta",
   "description": "Sass files for Xing Framework",
   "main": "index.js",
   "scripts": {
